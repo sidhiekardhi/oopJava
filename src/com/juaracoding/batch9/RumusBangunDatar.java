@@ -15,5 +15,7 @@ public class RumusBangunDatar extends TampilBangunDatar {
 		double luas= 0.5*a*tinggi;
 		System.out.println("luas segitiga adalah " + luas);
 	}
+	
+	//mantap
 
 }
